@@ -3,3 +3,4 @@ Rencana Cafe NSB
 - menambahkan delivery order
 - menambahkan tempat duduk santay
 - menambahkan taman buatan
+- menambahkan spot foto 
